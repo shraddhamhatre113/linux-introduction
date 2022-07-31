@@ -21,7 +21,7 @@
 
 &rarr; version 1.0 was released in 1994.
 
-&rarr; current stable version is 2.6.24.
+&rarr; current stable version is 20.3.
 
 ![linus torvaldas](/home/shraddha/Downloads/th.jpeg) 
  
