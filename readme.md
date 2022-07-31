@@ -7,11 +7,6 @@
 
 &rarr; community
 
- 
-* ## Introduction
-
-&rarr;LINUX Kernel was developed by linus torvaldasat the university of Helsinki in finland.
-
 &rarr;Linux is like unix operating sytem that was design to provide personal computer.
 
 &rarr;Linux has reputation as a very effiecient and fast performing system.
@@ -29,6 +24,74 @@
 &rarr; current stable version is 2.6.24.
 
 ![linus torvaldas](/home/shraddha/Downloads/th.jpeg) 
+ 
+* ## Linux Kernel
+
+&rarr;LINUX Kernel was developed by linus torvaldasat the university of Helsinki in finland.
+
+&rarr; The Kernel Linux is not an Operating System 
+
+&rarr; Linux is a kernel
+
+&rarr; A kernel is a program that allocates and controls hardware resources in a system 
+
+&rarr; Linux Distrobutions use the Linux kernel together with the GNU Operating System
+
+
+
+&rarr; The Lin U x Kernel The Linuxkernel is currently maintained by
+
+&rarr; Linus Torvalds and a few hundred other 
+
+&rarr; Releases are ered in a very ordered fashion. 
+
+* Major
+* minor
+* patchlevel Odd minor are kernels Thus 
+* 2.4.20 latest stable kernel 
+* 2.5.67 latest developrnent kernel 
+will become the 2.6 kernel
+
+* ## what is Unix?
+&rarr; Unix is a portable, multitasking, multiuser, time-sharing operating system (OS) originally developed in 1969 by a group of employees at AT&T. 
+
+&rarr; Unix was first programmed in assembly language but was reprogrammed in C in 1973.
+
+&rarr; Unix has been ported to more machine families than any other operating system. 
+
+&rarr; Unix developers espouse simplicity, portability and clarity in design. In order to adhere to this philosophy, Unix systems are characterized by:
+
+&#42; The use of text files for data storage
+
+&#42; A hierarchical file system
+
+&#42; A large number of small programs, strung 
+  together through a command-line interpreter
+
+&#42; Use of shell scripts
+
+&#42; The avoidance of captive user interfaces
+
+
+* ## What is Shell?
+
+&rarr; An interface between the Linux system and the user
+
+&rarr; Used to call commands and programs
+An interpreter
+
+&rarr; Powerful programming language
+“Shell scripts” = .bat .cmd EXEC REXX
+
+&rarr; Many available (bsh; ksh; csh; bash; tcsh)
+
+&rarr; A shell is any program that takes input from the user, translates it into instructions that the operating system can understand, and conveys the operating system's output back to the user. 
+
+i.e. Any User Interface 
+Character Based v Graphics Based 
+
+
+
 
 * ## Linux Distribution
 
@@ -108,68 +171,6 @@
 
 ![linux interface](/home/shraddha/Downloads/index.jpeg) 
 
-* ## Linux Kernel
-
-&rarr; The Kernel Linux is not an Operating System 
-
-&rarr; Linux is a kernel
-
-&rarr; A kernel is a program that allocates and controls hardware resources in a system 
-
-&rarr; Linux Distrobutions use the Linux kernel together with the GNU Operating System
-
-
-
-&rarr; The Lin U x Kernel The Linuxkernel is currently maintained by
-
-&rarr; Linus Torvalds and a few hundred other 
-
-&rarr; Releases are ered in a very ordered fashion. 
-
-* Major
-* minor
-* patchlevel Odd minor are kernels Thus 
-* 2.4.20 latest stable kernel 
-* 2.5.67 latest developrnent kernel 
-will become the 2.6 kernel
-
-* ## what is Unix?
-&rarr; Unix is a portable, multitasking, multiuser, time-sharing operating system (OS) originally developed in 1969 by a group of employees at AT&T. 
-
-&rarr; Unix was first programmed in assembly language but was reprogrammed in C in 1973.
-
-&rarr; Unix has been ported to more machine families than any other operating system. 
-
-&rarr; Unix developers espouse simplicity, portability and clarity in design. In order to adhere to this philosophy, Unix systems are characterized by:
-
-&#42; The use of text files for data storage
-
-&#42; A hierarchical file system
-
-&#42; A large number of small programs, strung 
-  together through a command-line interpreter
-
-&#42; Use of shell scripts
-
-&#42; The avoidance of captive user interfaces
-
-
-* ## What is Shell?
-
-&rarr; An interface between the Linux system and the user
-
-&rarr; Used to call commands and programs
-An interpreter
-
-&rarr; Powerful programming language
-“Shell scripts” = .bat .cmd EXEC REXX
-
-&rarr; Many available (bsh; ksh; csh; bash; tcsh)
-
-&rarr; A shell is any program that takes input from the user, translates it into instructions that the operating system can understand, and conveys the operating system's output back to the user. 
-
-i.e. Any User Interface 
-Character Based v Graphics Based 
 
 * ## Advantages of Linux OS
 ### &rarr; Cost
